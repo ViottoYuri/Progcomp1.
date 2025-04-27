@@ -83,4 +83,40 @@ table {
     text-align: justify;
 }
 
+.laranja{
+    background-color: orange;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+.verde{
+    background-color: green;
+}
+
+.roxa{
+    background-color: purple;
+}
+
+.vermelha{
+    background-color: red;
+}
+
+th{
+    text-align: center;
+}
  
+.Z{
+    background-color: rgb(127, 163, 165);
+}
+
+.W{
+    text-align: justify;
+    background-color: rgb(196, 193, 193);
+}
+
+#T{
+    width: 500px;
+}
